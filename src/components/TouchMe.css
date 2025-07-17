@@ -1,0 +1,8 @@
+.Touchme{
+    align-items: center;
+    color: white;
+}
+.phone{
+    display:flex;
+    justify-content: center;
+}
